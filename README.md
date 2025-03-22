@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K Deepthi- Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>K Deepthi</h1>
+        <p>Currently a second year AI student with great communication skills,interested in enhancing my skills in software filed</p>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="C:\Users\deept\OneDrive\Pictures\Deepu\Images\IMG_20231223_162905_291.jpg" alt="K Deepthi" class="profile-image">
+        <p>"Hi there!!,This is deepthi,a computer science student in the artificial intelligence domain .Proficient in Python.I enjoy exploring new texhnologies and collaborating with like minded professionals.</p>
+    </section>
+
+    <section id="skills">
+        <h2> My Skills</h2>
+        <ul>
+            <li>Communication</li>
+            <li>Adaptivity</li>
+            <li>Problem solving</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>projects</h2>
+        <div class="project">
+            <h3>My Portfolio</h3>
+            <p>Currently desinging my portfolio as a part of my Codsoft internship using html and css</p>
+            <img src="C:\Users\deept\OneDrive\Pictures\Screenshots\Screenshot (4).png" alt="My portfolio">
+        </div>
+    </section>
+
+    <section id="resume">
+        <h2>Resume</h2>
+        <p><a href="C:\Deepthi codsoft\myresume.pdf" download>Download my resume</a></p>
+    </section>
+
+    <section id="Internships and experience">
+        <h2>Internships</h2>
+        <div class="Experience">
+            <h3>Solutions architecture Job simulation</h3>
+            <p>Completed a micro internship from forage which has improved my skills in technical field</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: deepthik4321@gmail.com</p>
+        <p>Phone: (+91) 8712327005</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 K Deepthi. All rights reserved.</p>
+    </footer>
+</body>
+</html>
